@@ -22,6 +22,7 @@
     "fastify-cli": "^2.9.1"
   },
   "devDependencies": {
+    "fastify-static": "^4.0.1",
     "tap": "^14.11.0"
   }
 }
